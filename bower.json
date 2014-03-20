@@ -1,0 +1,22 @@
+{
+  "name": "Smokeymonkey Amazon Prize Life Gallery",
+  "version": "0.0.1",
+  "authors": [
+    "Fumitake TANIGUCHI <fumitake@gmail.com>"
+  ],
+  "description": "Smokeymonkey Amazon Prize Life Gallery",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.5.1"
+  }
+}
